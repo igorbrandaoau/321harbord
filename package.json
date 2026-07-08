@@ -1,0 +1,1 @@
+{"scripts":{"dev":"python3 -m http.server 5173 --directory public","build":"rm -rf dist && cp -R public dist","preview":"python3 -m http.server 4173 --directory dist"},"dependencies":{},"devDependencies":{}}
